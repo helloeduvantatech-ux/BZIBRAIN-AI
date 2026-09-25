@@ -1,0 +1,6 @@
+{
+  "name": "EduVanta BizBrain AI",
+  "description": "AI-powered business management and business intelligence platform by EduVantaTech for Indian SMEs to manage sales, inventory, expenses, orders, and actionable AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
